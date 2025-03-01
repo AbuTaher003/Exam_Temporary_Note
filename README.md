@@ -1,4 +1,3 @@
-
 # **Database Concepts: Simple Notes**
 
 This repo is all about explaining database concepts in the simplest way possible! Whether you're just getting started with databases or need a refresher, these notes should help. We’ll cover everything from normalization to entity sets and keys, all in a way that's easy to understand.
